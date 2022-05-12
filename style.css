@@ -1,0 +1,33 @@
+
+
+.crystalBtn{
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+}
+
+.container{
+    width: 70;
+    margin: 0 auto;
+    text-align: center;
+    background-image: linear-gradient(#f4ece1, #fcfbf7);
+}
+
+#results li{
+list-style: none;
+text-align: center;
+font-weight: 600;
+margin: 15px;
+font-size: 18px;
+
+
+}
+
+
+
+
+
+#total p {
+font-weight: 600;
+font-size: 18px;
+}
